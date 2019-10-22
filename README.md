@@ -7,8 +7,9 @@ This a test module
 
 2- activate it
 
-3- browse `your-domain/test`
+3- Clear the cache
 
-4- Clear the cache
+4- browse `your-domain/test`
+
 
 You will see a dummy message.
