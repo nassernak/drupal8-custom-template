@@ -1,0 +1,9 @@
+amt_feeds.setcolor:
+  path: '/test'
+  defaults:
+    _controller: '\Drupal\test\Controller\TestController::testTemplateCallback'
+    _title: 'Test'
+  requirements:
+    _permission: 'Administer views'
+  options:
+    no_cache: 'TRUE'

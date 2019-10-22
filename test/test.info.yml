@@ -1,0 +1,7 @@
+name: Test Module
+description: A test module to use template
+package: Custom
+type: module
+version: 1.0
+core: 8.x
+dependencies:
